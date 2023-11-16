@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Theodore Hui
-tchui@ucsd.edu
+Theodore Hui and Anna Liu
